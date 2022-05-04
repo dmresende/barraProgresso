@@ -1,0 +1,11 @@
+C:\Repositórios\CsharpTutorialMS\ProjetoCSharp\ProjetoCSharp\bin\Debug\ProjetoCSharp.exe.config
+C:\Repositórios\CsharpTutorialMS\ProjetoCSharp\ProjetoCSharp\bin\Debug\ProjetoCSharp.exe
+C:\Repositórios\CsharpTutorialMS\ProjetoCSharp\ProjetoCSharp\bin\Debug\ProjetoCSharp.pdb
+C:\Repositórios\CsharpTutorialMS\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.csproj.AssemblyReference.cache
+C:\Repositórios\CsharpTutorialMS\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.csproj.SuggestedBindingRedirects.cache
+C:\Repositórios\CsharpTutorialMS\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.form_progressBar.resources
+C:\Repositórios\CsharpTutorialMS\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.Properties.Resources.resources
+C:\Repositórios\CsharpTutorialMS\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.csproj.GenerateResource.cache
+C:\Repositórios\CsharpTutorialMS\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.csproj.CoreCompileInputs.cache
+C:\Repositórios\CsharpTutorialMS\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.exe
+C:\Repositórios\CsharpTutorialMS\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.pdb
